@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1319346553/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1319346553/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1319346553/PATH/value=${CYGWIN_HOME}\\bin;C\:/Program Files/Java/jre1.8.0_77/bin/server;C\:/Program Files/Java/jre1.8.0_77/bin;C\:/Program Files/Java/jre1.8.0_77/lib/amd64;C\:\\mingw\\x86_64-4.9.2-posix-seh-rt_v4-rev4\\mingw64\\bin;C\:\\mingw\\msys\\1.0\\bin;C\:\\mingw\\bin;C\:\\cygwin64\\bin;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\Intel\\OpenCL SDK\\3.0\\bin\\x86;C\:\\Program Files (x86)\\Intel\\OpenCL SDK\\3.0\\bin\\x64;C\:\\Program Files (x86)\\MiKTeX 2.9\\miktex\\bin\\;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\Skype\\Phone\\;C\:\\Users\\amr\\AppData\\Local\\Microsoft\\WindowsApps;;E\:\\eclipse
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1319346553/append=true
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1319346553/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/CYGWIN_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/CYGWIN_HOME/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/CYGWIN_HOME/value=C\:\\cygwin64
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/MINGW_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/MINGW_HOME/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/MINGW_HOME/value=C\:\\MinGW\\
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/PATH/value=${CYGWIN_HOME}\\bin;C\:/Program Files/Java/jre1.8.0_77/bin/server;C\:/Program Files/Java/jre1.8.0_77/bin;C\:/Program Files/Java/jre1.8.0_77/lib/amd64;C\:\\mingw\\x86_64-4.9.2-posix-seh-rt_v4-rev4\\mingw64\\bin;C\:\\mingw\\msys\\1.0\\bin;C\:\\mingw\\bin;C\:\\cygwin64\\bin;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\Intel\\OpenCL SDK\\3.0\\bin\\x86;C\:\\Program Files (x86)\\Intel\\OpenCL SDK\\3.0\\bin\\x64;C\:\\Program Files (x86)\\MiKTeX 2.9\\miktex\\bin\\;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\Skype\\Phone\\;E\:\\eclipse
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1134518697/appendContributed=true
